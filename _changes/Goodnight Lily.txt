@@ -1,0 +1,5 @@
+mods/data/Goodnight Lily/Goodnight Lily-hard.json
+mods/songs/Goodnight Lily/Voices.ogg
+mods/songs/Goodnight Lily/Inst.ogg
+mods/songs/Goodnight Lily/voices.ogg
+mods/songs/Goodnight Lily/inst.ogg

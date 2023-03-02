@@ -1,0 +1,5 @@
+mods/data/DadBattle Remix/DadBattle Remix-hard.json
+mods/songs/DadBattle Remix/Voices.ogg
+mods/songs/DadBattle Remix/Inst.ogg
+mods/songs/DadBattle Remix/voices.ogg
+mods/songs/DadBattle Remix/inst.ogg

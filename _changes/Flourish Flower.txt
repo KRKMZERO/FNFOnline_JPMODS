@@ -1,0 +1,5 @@
+mods/data/Flourish Flower/Flourish Flower-hard.json
+mods/songs/Flourish Flower/Voices.ogg
+mods/songs/Flourish Flower/Inst.ogg
+mods/songs/Flourish Flower/voices.ogg
+mods/songs/Flourish Flower/inst.ogg
