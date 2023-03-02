@@ -1,0 +1,5 @@
+mods/data/bomblitz/bomblitz-hard.json
+mods/songs/bomblitz/Voices.ogg
+mods/songs/bomblitz/Inst.ogg
+mods/songs/bomblitz/voices.ogg
+mods/songs/bomblitz/inst.ogg
