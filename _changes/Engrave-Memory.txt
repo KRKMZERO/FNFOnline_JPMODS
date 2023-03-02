@@ -1,0 +1,6 @@
+mods/data/Engrave-Memory/Engrave-Memory-engrave.json
+mods/data/Engrave-Memory/Engrave-Memory-hard.json
+mods/songs/Engrave-Memory/Voices.ogg
+mods/songs/Engrave-Memory/Inst.ogg
+mods/songs/Engrave-Memory/voices.ogg
+mods/songs/Engrave-Memory/inst.ogg
