@@ -1,0 +1,6 @@
+mods/data/Encore/Encore-enfrave.json
+mods/data/Encore/Encore-hard.json
+mods/songs/Encore/Voices.ogg
+mods/songs/Encore/Inst.ogg
+mods/songs/Encore/voices.ogg
+mods/songs/Encore/inst.ogg

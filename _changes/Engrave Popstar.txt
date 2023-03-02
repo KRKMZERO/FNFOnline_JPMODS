@@ -1,0 +1,6 @@
+mods/data/Engrave Popstar/Engrave Popstar-enfrave.json
+mods/data/Engrave Popstar/Engrave Popstar-hard.json
+mods/songs/Engrave Popstar/Voices.ogg
+mods/songs/Engrave Popstar/Inst.ogg
+mods/songs/Engrave Popstar/voices.ogg
+mods/songs/Engrave Popstar/inst.ogg
