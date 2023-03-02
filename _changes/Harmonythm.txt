@@ -1,0 +1,5 @@
+mods/data/Harmonythm/Harmonythm-hard.json
+mods/songs/Harmonythm/Voices.ogg
+mods/songs/Harmonythm/Inst.ogg
+mods/songs/Harmonythm/voices.ogg
+mods/songs/Harmonythm/inst.ogg

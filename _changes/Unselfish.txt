@@ -1,0 +1,5 @@
+mods/data/Unselfish/Unselfish-hard.json
+mods/songs/Unselfish/Voices.ogg
+mods/songs/Unselfish/Inst.ogg
+mods/songs/Unselfish/voices.ogg
+mods/songs/Unselfish/inst.ogg

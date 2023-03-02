@@ -1,0 +1,5 @@
+mods/data/Tutoriality/Tutoriality-hard.json
+mods/songs/Tutoriality/Voices.ogg
+mods/songs/Tutoriality/Inst.ogg
+mods/songs/Tutoriality/voices.ogg
+mods/songs/Tutoriality/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/Happyness-plant/Happyness-plant-hard.json
+mods/songs/Happyness-plant/Voices.ogg
+mods/songs/Happyness-plant/Inst.ogg
+mods/songs/Happyness-plant/voices.ogg
+mods/songs/Happyness-plant/inst.ogg

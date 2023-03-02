@@ -1,0 +1,5 @@
+mods/data/anxiety/anxiety-hard.json
+mods/songs/anxiety/Voices.ogg
+mods/songs/anxiety/Inst.ogg
+mods/songs/anxiety/voices.ogg
+mods/songs/anxiety/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/I-want-to-live/I-want-to-live-hard.json
+mods/songs/I-want-to-live/Voices.ogg
+mods/songs/I-want-to-live/Inst.ogg
+mods/songs/I-want-to-live/voices.ogg
+mods/songs/I-want-to-live/inst.ogg

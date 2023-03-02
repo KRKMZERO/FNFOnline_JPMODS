@@ -1,0 +1,5 @@
+mods/data/Expectations/Expectations-hard.json
+mods/songs/Expectations/Voices.ogg
+mods/songs/Expectations/Inst.ogg
+mods/songs/Expectations/voices.ogg
+mods/songs/Expectations/inst.ogg

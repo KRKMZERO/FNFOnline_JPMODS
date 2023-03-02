@@ -1,0 +1,5 @@
+mods/data/step-up/step-up-hard.json
+mods/songs/step-up/Voices.ogg
+mods/songs/step-up/Inst.ogg
+mods/songs/step-up/voices.ogg
+mods/songs/step-up/inst.ogg

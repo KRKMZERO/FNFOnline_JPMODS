@@ -1,0 +1,5 @@
+mods/data/Enjoy/Enjoy-hard.json
+mods/songs/Enjoy/Voices.ogg
+mods/songs/Enjoy/Inst.ogg
+mods/songs/Enjoy/voices.ogg
+mods/songs/Enjoy/inst.ogg
