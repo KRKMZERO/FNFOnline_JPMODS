@@ -1,0 +1,5 @@
+mods/data/Convide/Convide-hard.json
+mods/songs/Convide/Voices.ogg
+mods/songs/Convide/Inst.ogg
+mods/songs/Convide/voices.ogg
+mods/songs/Convide/inst.ogg

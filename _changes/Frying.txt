@@ -1,0 +1,5 @@
+mods/data/Frying/Frying-hard.json
+mods/songs/Frying/Voices.ogg
+mods/songs/Frying/Inst.ogg
+mods/songs/Frying/voices.ogg
+mods/songs/Frying/inst.ogg

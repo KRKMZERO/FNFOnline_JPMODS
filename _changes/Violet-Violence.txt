@@ -1,0 +1,5 @@
+mods/data/Violet-Violence/Violet-Violence-hard.json
+mods/songs/Violet-Violence/Voices.ogg
+mods/songs/Violet-Violence/Inst.ogg
+mods/songs/Violet-Violence/voices.ogg
+mods/songs/Violet-Violence/inst.ogg

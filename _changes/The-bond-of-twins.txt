@@ -1,0 +1,5 @@
+mods/data/The-bond-of-twins/The-bond-of-twins-hard.json
+mods/songs/The-bond-of-twins/Voices.ogg
+mods/songs/The-bond-of-twins/Inst.ogg
+mods/songs/The-bond-of-twins/voices.ogg
+mods/songs/The-bond-of-twins/inst.ogg

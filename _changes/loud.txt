@@ -1,0 +1,5 @@
+mods/data/loud/loud-hard.json
+mods/songs/loud/Voices.ogg
+mods/songs/loud/Inst.ogg
+mods/songs/loud/voices.ogg
+mods/songs/loud/inst.ogg

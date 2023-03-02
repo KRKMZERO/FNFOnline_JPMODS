@@ -1,0 +1,5 @@
+mods/data/Nuotrauka/Nuotrauka-hard.json
+mods/songs/Nuotrauka/Voices.ogg
+mods/songs/Nuotrauka/Inst.ogg
+mods/songs/Nuotrauka/voices.ogg
+mods/songs/Nuotrauka/inst.ogg
