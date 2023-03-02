@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "hoodielily",
-		"player2": "daddy",
+		"player1": "boyFriend",
+		"player2": "dad",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -5006,7 +5006,7 @@
 		"validScore": true,
 		"speed": 2.7,
 		"isMoody": false,
-		"gfVersion": "mommyandmanager",
+		"gfVersion": "",
 		"forceJudgements": false,
 		"events": [],
 		"preferredNoteAmount": 4,
