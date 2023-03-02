@@ -1,4 +1,3 @@
-mods/weeks/h.json
-mods/weeks/p.json
-mods/weeks/w.json
 mods/weeks/vs Kyle.json
+mods/weeks/Chaotic Symphony.json
+mods/weeks/Lily in grave.json
