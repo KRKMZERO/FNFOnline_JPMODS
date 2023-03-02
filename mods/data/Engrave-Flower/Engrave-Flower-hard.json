@@ -9671,7 +9671,7 @@
 		],
 		"player3": null,
 		"isHey": false,
-		"mania": 0,
+		"mania": 3,
 		"convertMineToNuke": false,
 		"isCheer": null,
 		"cutsceneType": "normal",
