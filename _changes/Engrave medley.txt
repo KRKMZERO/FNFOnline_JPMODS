@@ -1,6 +1,6 @@
-mods/data/Engrave medley/Engrave medley-engrave.json
-mods/data/Engrave medley/Engrave medley-hard.json
-mods/songs/Engrave medley/Voices.ogg
-mods/songs/Engrave medley/Inst.ogg
-mods/songs/Engrave medley/voices.ogg
-mods/songs/Engrave medley/inst.ogg
+mods/data/Engrave-medley/Engrave-medley-engrave.json
+mods/data/Engrave-medley/Engrave-medley-hard.json
+mods/songs/Engrave-medley/Voices.ogg
+mods/songs/Engrave-medley/Inst.ogg
+mods/songs/Engrave-medley/voices.ogg
+mods/songs/Engrave-medley/inst.ogg
