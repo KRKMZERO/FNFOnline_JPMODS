@@ -1,3 +1,4 @@
+mods/data/depravity-hard.json
 mods/scripts/ZERO_UI_ver5.lua
 mods/songs/Depravity/Voices.ogg
 mods/songs/Depravity/voices.ogg
