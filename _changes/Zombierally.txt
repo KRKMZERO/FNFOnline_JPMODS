@@ -1,0 +1,6 @@
+mods/data/Zombierally/Zombierally-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/Zombierally/Voices.ogg
+mods/songs/Zombierally/voices.ogg
+mods/songs/Zombierally/Inst.ogg
+mods/songs/Zombierally/inst.ogg

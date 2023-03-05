@@ -1,0 +1,6 @@
+mods/data/bomblitz/bomblitz-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/bomblitz/Voices.ogg
+mods/songs/bomblitz/voices.ogg
+mods/songs/bomblitz/Inst.ogg
+mods/songs/bomblitz/inst.ogg

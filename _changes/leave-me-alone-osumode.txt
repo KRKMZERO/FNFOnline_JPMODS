@@ -1,0 +1,6 @@
+mods/data/leave-me-alone/leave-me-alone-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/leave-me-alone/Voices.ogg
+mods/songs/leave-me-alone/voices.ogg
+mods/songs/leave-me-alone/Inst.ogg
+mods/songs/leave-me-alone/inst.ogg

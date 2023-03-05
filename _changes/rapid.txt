@@ -1,0 +1,6 @@
+mods/data/rapid/rapid-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/rapid/Voices.ogg
+mods/songs/rapid/voices.ogg
+mods/songs/rapid/Inst.ogg
+mods/songs/rapid/inst.ogg

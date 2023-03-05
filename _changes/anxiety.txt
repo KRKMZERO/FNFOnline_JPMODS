@@ -1,0 +1,6 @@
+mods/data/anxiety/anxiety-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/anxiety/Voices.ogg
+mods/songs/anxiety/voices.ogg
+mods/songs/anxiety/Inst.ogg
+mods/songs/anxiety/inst.ogg

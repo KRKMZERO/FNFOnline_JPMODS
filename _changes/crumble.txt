@@ -1,0 +1,6 @@
+mods/data/crumble/crumble-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/crumble/Voices.ogg
+mods/songs/crumble/voices.ogg
+mods/songs/crumble/Inst.ogg
+mods/songs/crumble/inst.ogg

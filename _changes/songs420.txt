@@ -1,0 +1,5 @@
+mods/weeks/vs Kyle.json
+mods/weeks/Chaotic Symphony.json
+mods/weeks/Lily in grave.json
+mods/weeks/VT Madness plus.json
+mods/weeks/A-side whitty.json

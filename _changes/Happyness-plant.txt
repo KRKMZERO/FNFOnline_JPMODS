@@ -1,0 +1,6 @@
+mods/data/happyness-plant/happyness-plant-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/happyness-plant/Voices.ogg
+mods/songs/happyness-plant/voices.ogg
+mods/songs/happyness-plant/Inst.ogg
+mods/songs/happyness-plant/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/nuotrauka/nuotrauka-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/nuotrauka/Voices.ogg
+mods/songs/nuotrauka/voices.ogg
+mods/songs/nuotrauka/Inst.ogg
+mods/songs/nuotrauka/inst.ogg

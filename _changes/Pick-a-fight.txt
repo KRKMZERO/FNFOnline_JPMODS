@@ -1,0 +1,6 @@
+mods/data/pick-a-fight/pick-a-fight-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/pick-a-fight/Voices.ogg
+mods/songs/pick-a-fight/voices.ogg
+mods/songs/pick-a-fight/Inst.ogg
+mods/songs/pick-a-fight/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/unselfish/unselfish-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/unselfish/Voices.ogg
+mods/songs/unselfish/voices.ogg
+mods/songs/unselfish/Inst.ogg
+mods/songs/unselfish/inst.ogg

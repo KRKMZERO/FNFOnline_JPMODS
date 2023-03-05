@@ -1,0 +1,6 @@
+mods/data/DadBattle-remix/DadBattle-remix-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/DadBattle-remix/Voices.ogg
+mods/songs/DadBattle-remix/voices.ogg
+mods/songs/DadBattle-remix/Inst.ogg
+mods/songs/DadBattle-remix/inst.ogg

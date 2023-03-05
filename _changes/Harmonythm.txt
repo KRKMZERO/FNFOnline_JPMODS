@@ -1,0 +1,6 @@
+mods/data/harmonythm/harmonythm-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/harmonythm/Voices.ogg
+mods/songs/harmonythm/voices.ogg
+mods/songs/harmonythm/Inst.ogg
+mods/songs/harmonythm/inst.ogg

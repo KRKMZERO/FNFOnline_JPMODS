@@ -1,0 +1,7 @@
+mods/data/Encore/Encore-engrave.json
+mods/data/Encore/Encore-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/Encore/Voices.ogg
+mods/songs/Encore/voices.ogg
+mods/songs/Encore/Inst.ogg
+mods/songs/Encore/inst.ogg

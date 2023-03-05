@@ -1,0 +1,6 @@
+mods/data/performance/performance-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/performance/Voices.ogg
+mods/songs/performance/voices.ogg
+mods/songs/performance/Inst.ogg
+mods/songs/performance/inst.ogg

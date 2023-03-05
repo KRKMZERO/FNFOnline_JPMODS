@@ -1,0 +1,6 @@
+mods/data/ecstasy/ecstasy-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/ecstasy/Voices.ogg
+mods/songs/ecstasy/voices.ogg
+mods/songs/ecstasy/Inst.ogg
+mods/songs/ecstasy/inst.ogg

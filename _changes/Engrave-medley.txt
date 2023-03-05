@@ -1,0 +1,7 @@
+mods/data/Engrave-medley/Engrave-medley-engrave.json
+mods/data/Engrave-medley/Engrave-medley-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/Engrave-medley/Voices.ogg
+mods/songs/Engrave-medley/voices.ogg
+mods/songs/Engrave-medley/Inst.ogg
+mods/songs/Engrave-medley/inst.ogg

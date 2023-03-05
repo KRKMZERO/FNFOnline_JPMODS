@@ -1,0 +1,6 @@
+mods/data/friendly/friendly-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/friendly/Voices.ogg
+mods/songs/friendly/voices.ogg
+mods/songs/friendly/Inst.ogg
+mods/songs/friendly/inst.ogg

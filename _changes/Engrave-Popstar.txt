@@ -1,0 +1,7 @@
+mods/data/Engrave-Popstar/Engrave-Popstar-engrave.json
+mods/data/Engrave-Popstar/Engrave-Popstar-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/Engrave-Popstar/Voices.ogg
+mods/songs/Engrave-Popstar/voices.ogg
+mods/songs/Engrave-Popstar/Inst.ogg
+mods/songs/Engrave-Popstar/inst.ogg

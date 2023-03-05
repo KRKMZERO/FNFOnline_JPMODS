@@ -1,0 +1,6 @@
+mods/data/Rotten-Popstar/Rotten-Popstar-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/Rotten-Popstar/Voices.ogg
+mods/songs/Rotten-Popstar/voices.ogg
+mods/songs/Rotten-Popstar/Inst.ogg
+mods/songs/Rotten-Popstar/inst.ogg

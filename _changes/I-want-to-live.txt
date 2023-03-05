@@ -1,0 +1,6 @@
+mods/data/i-want-to-live/i-want-to-live-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/i-want-to-live/Voices.ogg
+mods/songs/i-want-to-live/voices.ogg
+mods/songs/i-want-to-live/Inst.ogg
+mods/songs/i-want-to-live/inst.ogg

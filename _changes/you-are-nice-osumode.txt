@@ -1,0 +1,6 @@
+mods/data/you-are-nice/you-are-nice-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/you-are-nice/Voices.ogg
+mods/songs/you-are-nice/voices.ogg
+mods/songs/you-are-nice/Inst.ogg
+mods/songs/you-are-nice/inst.ogg

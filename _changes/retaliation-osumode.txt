@@ -1,0 +1,6 @@
+mods/data/retaliation/retaliation-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/retaliation/Voices.ogg
+mods/songs/retaliation/voices.ogg
+mods/songs/retaliation/Inst.ogg
+mods/songs/retaliation/inst.ogg

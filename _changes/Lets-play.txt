@@ -1,0 +1,6 @@
+mods/data/lets-play/lets-play-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/lets-play/Voices.ogg
+mods/songs/lets-play/voices.ogg
+mods/songs/lets-play/Inst.ogg
+mods/songs/lets-play/inst.ogg

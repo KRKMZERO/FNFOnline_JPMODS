@@ -1,0 +1,6 @@
+mods/data/the-bond-of-twins/the-bond-of-twins-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/the-bond-of-twins/Voices.ogg
+mods/songs/the-bond-of-twins/voices.ogg
+mods/songs/the-bond-of-twins/Inst.ogg
+mods/songs/the-bond-of-twins/inst.ogg

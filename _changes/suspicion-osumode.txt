@@ -1,0 +1,6 @@
+mods/data/suspicion/suspicion-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/suspicion/Voices.ogg
+mods/songs/suspicion/voices.ogg
+mods/songs/suspicion/Inst.ogg
+mods/songs/suspicion/inst.ogg

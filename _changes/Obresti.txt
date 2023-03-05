@@ -1,0 +1,6 @@
+mods/data/obresti/obresti-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/obresti/Voices.ogg
+mods/songs/obresti/voices.ogg
+mods/songs/obresti/Inst.ogg
+mods/songs/obresti/inst.ogg

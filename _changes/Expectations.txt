@@ -1,0 +1,6 @@
+mods/data/expectations/expectations-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/expectations/Voices.ogg
+mods/songs/expectations/voices.ogg
+mods/songs/expectations/Inst.ogg
+mods/songs/expectations/inst.ogg

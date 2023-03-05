@@ -1,0 +1,6 @@
+mods/data/frying/frying-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/frying/Voices.ogg
+mods/songs/frying/voices.ogg
+mods/songs/frying/Inst.ogg
+mods/songs/frying/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/chaotic-animals/chaotic-animals-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/chaotic-animals/Voices.ogg
+mods/songs/chaotic-animals/voices.ogg
+mods/songs/chaotic-animals/Inst.ogg
+mods/songs/chaotic-animals/inst.ogg

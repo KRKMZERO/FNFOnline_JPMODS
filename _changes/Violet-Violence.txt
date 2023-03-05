@@ -1,0 +1,6 @@
+mods/data/violet-violence/violet-violence-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/violet-violence/Voices.ogg
+mods/songs/violet-violence/voices.ogg
+mods/songs/violet-violence/Inst.ogg
+mods/songs/violet-violence/inst.ogg

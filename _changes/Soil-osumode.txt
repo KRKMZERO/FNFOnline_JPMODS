@@ -1,0 +1,6 @@
+mods/data/Soil/Soil-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/Soil/Voices.ogg
+mods/songs/Soil/voices.ogg
+mods/songs/Soil/Inst.ogg
+mods/songs/Soil/inst.ogg

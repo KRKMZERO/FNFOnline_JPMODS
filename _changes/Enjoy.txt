@@ -1,0 +1,6 @@
+mods/data/enjoy/enjoy-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/enjoy/Voices.ogg
+mods/songs/enjoy/voices.ogg
+mods/songs/enjoy/Inst.ogg
+mods/songs/enjoy/inst.ogg

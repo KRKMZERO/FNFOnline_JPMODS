@@ -1,0 +1,6 @@
+mods/data/tutoriality/tutoriality-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/tutoriality/Voices.ogg
+mods/songs/tutoriality/voices.ogg
+mods/songs/tutoriality/Inst.ogg
+mods/songs/tutoriality/inst.ogg

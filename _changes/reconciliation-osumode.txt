@@ -1,0 +1,6 @@
+mods/data/reconciliation/reconciliation-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/reconciliation/Voices.ogg
+mods/songs/reconciliation/voices.ogg
+mods/songs/reconciliation/Inst.ogg
+mods/songs/reconciliation/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/convide/convide-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/convide/Voices.ogg
+mods/songs/convide/voices.ogg
+mods/songs/convide/Inst.ogg
+mods/songs/convide/inst.ogg

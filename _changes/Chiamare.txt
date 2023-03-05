@@ -1,0 +1,6 @@
+mods/data/chiamare/chiamare-hard.json
+mods/scripts/ZERO_UI_ver5.lua
+mods/songs/chiamare/Voices.ogg
+mods/songs/chiamare/voices.ogg
+mods/songs/chiamare/Inst.ogg
+mods/songs/chiamare/inst.ogg
