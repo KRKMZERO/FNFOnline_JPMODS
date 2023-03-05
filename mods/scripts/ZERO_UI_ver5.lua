@@ -19,6 +19,16 @@ BorderColor = '000000'
 
 function onCreatePost()--特殊なUI変更
 
+	--ゲージとアイコン関係　非表示化
+	setProperty('healthBar.visible', false)
+	setProperty('healthBarBG.visible', false)
+	setProperty('healthicon.visible', false)
+	setProperty('iconP2.visible', false)
+	setProperty('iconP1.visible', false)
+
+	--その他非表示
+	setProperty('scoreTxt.visible', false);
+
 	--UI表示位置（DOWNSCROLLでも位置はかわりません）
 	makeLuaText('SongName','',500,ZERO_UIx,ZERO_UIy); -- x y values go on the second and third 0's
 	setTextAlignment("SongName", "left")
