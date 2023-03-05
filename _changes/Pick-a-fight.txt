@@ -1,5 +1,0 @@
-mods/data/Pick-a-fight/Pick-a-fight-hard.json
-mods/songs/Pick-a-fight/Voices.ogg
-mods/songs/Pick-a-fight/Inst.ogg
-mods/songs/Pick-a-fight/voices.ogg
-mods/songs/Pick-a-fight/inst.ogg

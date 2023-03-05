@@ -1,5 +1,0 @@
-mods/data/Lets-play/Lets-play-hard.json
-mods/songs/Lets-play/Voices.ogg
-mods/songs/Lets-play/Inst.ogg
-mods/songs/Lets-play/voices.ogg
-mods/songs/Lets-play/inst.ogg

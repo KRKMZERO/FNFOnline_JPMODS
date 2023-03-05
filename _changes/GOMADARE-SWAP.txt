@@ -1,5 +1,0 @@
-mods/data/GOMADARE-SWAP/GOMADARE-SWAP-hard.json
-mods/songs/GOMADARE-SWAP/Voices.ogg
-mods/songs/GOMADARE-SWAP/Inst.ogg
-mods/songs/GOMADARE-SWAP/voices.ogg
-mods/songs/GOMADARE-SWAP/inst.ogg

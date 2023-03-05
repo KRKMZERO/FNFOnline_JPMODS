@@ -1,5 +1,0 @@
-mods/data/Suspicion/Suspicion-hard.json
-mods/songs/Suspicion/Voices.ogg
-mods/songs/Suspicion/Inst.ogg
-mods/songs/Suspicion/voices.ogg
-mods/songs/Suspicion/inst.ogg

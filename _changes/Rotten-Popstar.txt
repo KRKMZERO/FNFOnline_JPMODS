@@ -1,5 +1,0 @@
-mods/data/Rotten-Popstar/Rotten-Popstar-hard.json
-mods/songs/Rotten-Popstar/Voices.ogg
-mods/songs/Rotten-Popstar/Inst.ogg
-mods/songs/Rotten-Popstar/voices.ogg
-mods/songs/Rotten-Popstar/inst.ogg

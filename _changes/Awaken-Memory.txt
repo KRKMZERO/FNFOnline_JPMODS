@@ -1,5 +1,0 @@
-mods/data/Awaken-Memory/Awaken-Memory-hard.json
-mods/songs/Awaken-Memory/Voices.ogg
-mods/songs/Awaken-Memory/Inst.ogg
-mods/songs/Awaken-Memory/voices.ogg
-mods/songs/Awaken-Memory/inst.ogg

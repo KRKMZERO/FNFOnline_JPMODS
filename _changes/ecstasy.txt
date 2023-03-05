@@ -1,5 +1,0 @@
-mods/data/ecstasy/ecstasy-hard.json
-mods/songs/ecstasy/Voices.ogg
-mods/songs/ecstasy/Inst.ogg
-mods/songs/ecstasy/voices.ogg
-mods/songs/ecstasy/inst.ogg

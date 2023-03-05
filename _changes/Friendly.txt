@@ -1,5 +1,0 @@
-mods/data/Friendly/Friendly-hard.json
-mods/songs/Friendly/Voices.ogg
-mods/songs/Friendly/Inst.ogg
-mods/songs/Friendly/voices.ogg
-mods/songs/Friendly/inst.ogg

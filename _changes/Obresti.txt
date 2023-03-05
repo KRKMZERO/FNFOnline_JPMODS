@@ -1,5 +1,0 @@
-mods/data/Obresti/Obresti-hard.json
-mods/songs/Obresti/Voices.ogg
-mods/songs/Obresti/Inst.ogg
-mods/songs/Obresti/voices.ogg
-mods/songs/Obresti/inst.ogg

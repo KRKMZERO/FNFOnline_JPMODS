@@ -1,5 +1,0 @@
-mods/data/Rejoice/Rejoice-hard.json
-mods/songs/Rejoice/Voices.ogg
-mods/songs/Rejoice/Inst.ogg
-mods/songs/Rejoice/voices.ogg
-mods/songs/Rejoice/inst.ogg

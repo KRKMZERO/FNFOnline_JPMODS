@@ -1,5 +1,0 @@
-mods/data/Chiamare/Chiamare-hard.json
-mods/songs/Chiamare/Voices.ogg
-mods/songs/Chiamare/Inst.ogg
-mods/songs/Chiamare/voices.ogg
-mods/songs/Chiamare/inst.ogg

@@ -1,5 +1,0 @@
-mods/data/You-are-nice/You-are-nice-hard.json
-mods/songs/You-are-nice/Voices.ogg
-mods/songs/You-are-nice/Inst.ogg
-mods/songs/You-are-nice/voices.ogg
-mods/songs/You-are-nice/inst.ogg

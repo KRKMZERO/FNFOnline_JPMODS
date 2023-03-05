@@ -1,5 +1,0 @@
-mods/data/crumble/crumble-hard.json
-mods/songs/crumble/Voices.ogg
-mods/songs/crumble/Inst.ogg
-mods/songs/crumble/voices.ogg
-mods/songs/crumble/inst.ogg

@@ -1,6 +1,0 @@
-mods/data/Engrave-Soil/Engrave-Soil-engrave.json
-mods/data/Engrave-Soil/Engrave-Soil-hard.json
-mods/songs/Engrave-Soil/Voices.ogg
-mods/songs/Engrave-Soil/Inst.ogg
-mods/songs/Engrave-Soil/voices.ogg
-mods/songs/Engrave-Soil/inst.ogg

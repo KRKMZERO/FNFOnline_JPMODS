@@ -1,5 +1,0 @@
-mods/data/Leave-me-alone/Leave-me-alone-hard.json
-mods/songs/Leave-me-alone/Voices.ogg
-mods/songs/Leave-me-alone/Inst.ogg
-mods/songs/Leave-me-alone/voices.ogg
-mods/songs/Leave-me-alone/inst.ogg

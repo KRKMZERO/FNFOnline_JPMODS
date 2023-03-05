@@ -1,5 +1,0 @@
-mods/data/rapid/rapid-hard.json
-mods/songs/rapid/Voices.ogg
-mods/songs/rapid/Inst.ogg
-mods/songs/rapid/voices.ogg
-mods/songs/rapid/inst.ogg

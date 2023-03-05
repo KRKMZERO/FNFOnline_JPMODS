@@ -1,5 +1,0 @@
-mods/data/Depravity/depravity-hard.json
-mods/songs/Depravity/Voices.ogg
-mods/songs/Depravity/Inst.ogg
-mods/songs/Depravity/voices.ogg
-mods/songs/Depravity/inst.ogg

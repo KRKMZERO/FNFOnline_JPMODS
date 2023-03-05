@@ -1,5 +1,0 @@
-mods/data/Retaliation/Retaliation-hard.json
-mods/songs/retaliation/Voices.ogg
-mods/songs/retaliation/Inst.ogg
-mods/songs/retaliation/voices.ogg
-mods/songs/retaliation/inst.ogg
